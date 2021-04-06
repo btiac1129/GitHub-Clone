@@ -15,12 +15,17 @@ body {
 
 .container-left {}
 
-.logo {}
+.logo {
+    float: left;
+}
 
-.menu {}
+.menu {
+    float: left;
+}
 
 .menu-item {
     float: left;
+    margin-right: 10px;
 }
 
 .clearfix::after {
