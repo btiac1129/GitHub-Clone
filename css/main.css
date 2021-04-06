@@ -7,7 +7,10 @@ body {
     background: yellowgreen;
 }
 
-.container {}
+.container {
+    background: tomato;
+    width: 600px;
+}
 
 .container-left {}
 
