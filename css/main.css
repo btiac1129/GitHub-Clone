@@ -17,6 +17,11 @@ body {
 
 .logo {
     float: left;
+    margin-right: 5px;
+}
+
+.logo img {
+    display: block;
 }
 
 .menu {
