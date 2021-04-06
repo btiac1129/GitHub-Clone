@@ -18,3 +18,7 @@ body {
 .logo {}
 
 .menu {}
+
+.menu-item {
+    float: left;
+}
